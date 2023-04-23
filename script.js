@@ -61,3 +61,6 @@ reshuffleBtn.addEventListener('click', () => {
     shuffleArray(quizData);
     displayQuestions();
 });
+function shuffleArray(array) {
+    
+}
