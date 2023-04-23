@@ -57,3 +57,7 @@ function displayQuestions() {
       questionsSection.appendChild(questionCard);
     });
 }
+reshuffleBtn.addEventListener('click', () => {
+    shuffleArray(quizData);
+    displayQuestions();
+});
