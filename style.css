@@ -135,3 +135,25 @@ input {
 	box-shadow: 0px 6px 0px #787878;
 	transition: all 50ms;
 }
+
+@media only screen and (max-width: 767px) {
+
+	#question,
+	#answer,
+	#add-btn {
+	  display: block;
+	  margin: 0 auto;
+	}
+  
+	.question-card h2 {
+	  font-size: 20px;
+	}
+  
+	.answer {
+	  font-size: 16px;
+	}
+  
+	.question-card + .question-card {
+	  margin-top: 20px;
+	}
+}
