@@ -35,3 +35,11 @@ input {
 	border-radius: 5px;
 	border: 1px solid #ccc;
 }
+
+#question {
+	margin-right: 10px;
+}
+  
+#answer {
+	margin-left: 10px;
+}
