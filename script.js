@@ -19,3 +19,6 @@ answerInput.addEventListener('keydown', (e) => {
       addBtn.click();
     }
 });
+startBtn.addEventListener('click', () => {
+    displayQuestions();
+});
