@@ -14,3 +14,8 @@ addBtn.addEventListener('click', () => {
       answerInput.value = '';
     }
 });
+answerInput.addEventListener('keydown', (e) => {
+    if (e.keyCode === 13) {
+      addBtn.click();
+    }
+});
