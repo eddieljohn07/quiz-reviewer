@@ -22,3 +22,9 @@ answerInput.addEventListener('keydown', (e) => {
 startBtn.addEventListener('click', () => {
     displayQuestions();
 });
+function displayQuestions() {
+    questionsSection.innerHTML = '';
+    quizData.forEach((data, index)) => {
+        
+    }
+}
