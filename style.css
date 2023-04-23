@@ -79,4 +79,10 @@ input {
 	position: relative;
 	top: 2px;
 }
+
+.buttons-section {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
    
