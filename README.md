@@ -11,3 +11,10 @@ Welcome to Quiz Reviewr, a simple web application where you can add questions an
 - You can reshuffle the order of the questions by clicking Refresh/Reshuffle.
 - You can still add questions after starting, just click Refresh/Reshuffle to see your newly added questions.
 - The webpage is responsive and can work on various screen size.
+
+**Technologies**
+- This project was built using HTML, CSS, and JavaScript.
+
+If you would like to contribute to this project, feel free to fork the repository and make any changes you like. 
+----
+
